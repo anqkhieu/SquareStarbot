@@ -13,3 +13,9 @@ Gamification. Automation. Convenience.
 MIT License.
 
 Feel free to contact [Alisa Khieu](https://anqkhieu.com/) for questions.
+
+---
+
+🙋 **Would you like to test the bot?**
+
+The bot is hosted 24/7 on Heroku. Try joining the [Square Starbot Demo](https://discord.gg/mZtAePQUKz) Discord Server to check out its features.
