@@ -244,6 +244,8 @@ async def help(ctx):
 					value=f'Shows your current level, exp, and earned {pointsName}.', inline=False)
 	embed.add_field(name='`!rewards` or `!loyalty`',
 					value='Lists rewards one can earn from the loyalty program.', inline=False)
+	embed.add_field(name='`!daily`',
+					value=f'Give out {pointsName} to a person every 24 hours. Is it your lucky day?', inline=False)
 	embed.add_field(name='`!link`',
 					value=f'Must be used in direct messages with the bot. Associates your account with our loyalty rewards program to earn {pointsName}.', inline=False)
 	embed.add_field(name='`!gift`',
